@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi My name is Mahdi Soltani👋
 
-<!--
-**chetfang10/chetfang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## More
+
+
+| GitHub Stats  | Languages          |
+|-----------|--------------------|
+| <p><img src="https://github-readme-stats.vercel.app/api?username=chetfang10&amp;show_icons=true" alt="GitHub Stats"></p> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetfang10&layout=compact)](https://github.com/chetfang10/github-readme-stats) |
+
