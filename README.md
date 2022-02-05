@@ -1,5 +1,7 @@
 ### Hi My name is Mahdi Soltani👋
 
+I am a frontend developer, I work with Javascript frameworks like ReactJS, VueJS, AngularJS, React Native, NodeJS,... . I can use and work with XD to design great applications. Also, I am learning Php, etc... Programming Is My Life 👋
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
